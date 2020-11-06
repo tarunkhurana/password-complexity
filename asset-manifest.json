@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/password-complexity/static/css/main.455e881c.chunk.css",
+    "main.js": "/password-complexity/static/js/main.c85e16fa.chunk.js",
+    "main.js.map": "/password-complexity/static/js/main.c85e16fa.chunk.js.map",
+    "runtime-main.js": "/password-complexity/static/js/runtime-main.243b1522.js",
+    "runtime-main.js.map": "/password-complexity/static/js/runtime-main.243b1522.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/password-complexity/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9fa7b948.chunk.js": "/password-complexity/static/js/2.9fa7b948.chunk.js",
+    "static/js/2.9fa7b948.chunk.js.map": "/password-complexity/static/js/2.9fa7b948.chunk.js.map",
+    "static/js/3.1708eb91.chunk.js": "/password-complexity/static/js/3.1708eb91.chunk.js",
+    "static/js/3.1708eb91.chunk.js.map": "/password-complexity/static/js/3.1708eb91.chunk.js.map",
+    "index.html": "/password-complexity/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/password-complexity/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.455e881c.chunk.css.map": "/password-complexity/static/css/main.455e881c.chunk.css.map",
+    "static/js/2.9fa7b948.chunk.js.LICENSE.txt": "/password-complexity/static/js/2.9fa7b948.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.243b1522.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9fa7b948.chunk.js",
+    "static/css/main.455e881c.chunk.css",
+    "static/js/main.c85e16fa.chunk.js"
+  ]
+}
